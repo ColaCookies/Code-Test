@@ -1,3 +1,5 @@
+package Java.HSP;
+
 // _0034 ~ _0036
 
 public class _0034 {
