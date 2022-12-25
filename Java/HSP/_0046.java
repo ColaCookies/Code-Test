@@ -1,3 +1,4 @@
+package Java.HSP;
 public class _0046 {
     public static void main(String[] args) {
         char c1 = 'a';

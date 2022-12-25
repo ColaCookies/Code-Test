@@ -1,3 +1,5 @@
+package Java.HSP;
+
 public class _0020 {
 	public static void main(String[] args) {
 		System.out.println("\n我的世界\\有你225hhhh");

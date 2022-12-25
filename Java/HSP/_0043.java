@@ -1,3 +1,5 @@
+package Java.HSP;
+
 public class _0043 {
     public static void main(String[] args) {
         float a = 2.1F;

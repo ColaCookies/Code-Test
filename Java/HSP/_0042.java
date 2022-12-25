@@ -1,3 +1,4 @@
+package Java.HSP;
 public class _0042 {
     private static String getType(Object a) {
 //        return a.getClass().getName();

@@ -1,3 +1,5 @@
+package Java.HSP;
+
 
 public class _0025 {
 	public static void main(String[] args) {

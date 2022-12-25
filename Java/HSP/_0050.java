@@ -1,3 +1,4 @@
+package Java.HSP;
 public class _0050 {
     public static void main(String[] args) {
         

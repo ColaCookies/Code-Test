@@ -1,3 +1,5 @@
+package Java.HSP;
+
 public class _0047 {
     public static void main(String[] args) {
         char c1 = '陈';

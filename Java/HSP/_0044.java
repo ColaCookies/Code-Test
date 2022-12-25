@@ -1,4 +1,4 @@
-
+package Java.HSP;
 public class _0044 {
     public static void main(String[] args) {
         double n1 = 2.7;
